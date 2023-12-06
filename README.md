@@ -1,10 +1,25 @@
-# kashless
+# Kashless
+<p align="center">
+  <img src="aio/src/assets/images/logos/angular/angular_renaissance.png" alt="kashless-logo" width="120px" height="120px"/>
+</p>
 
-A new Flutter project.
+Payment App. Clen UI / UX Design.
+
+### Features
+
+- Turbo Fast Loading Speed
+- Clutter free UI design
+- Supports QR Code reading
+- Generates unique QR Code
+- PIN Authentication
+- Check Balance
+- Send Money to Friends
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this project, first clone this repo using http url.
+
+After that, run following 
 
 A few resources to get you started if this is your first Flutter project:
 
