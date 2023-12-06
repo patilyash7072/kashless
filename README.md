@@ -1,6 +1,6 @@
 # Kashless
 <p align="center">
-  <img src="aio/src/assets/images/logos/angular/angular_renaissance.png" alt="kashless-logo" width="120px" height="120px"/>
+  <img src="kashless_logo-modified.png" alt="kashless-logo" width="120px" height="120px"/>
 </p>
 
 Payment App. Clen UI / UX Design.
