@@ -1,7 +1,6 @@
 # Kashless
-<p align="center">
-  <img src="kashless_logo-modified.png" alt="kashless-logo" width="120px" height="120px"/>
-</p>
+
+<img src="kashless_logo-modified.png" alt="kashless-logo" width="120px" height="120px"/>
 
 Payment App. Clen UI / UX Design.
 
